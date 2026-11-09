@@ -8,6 +8,6 @@ Reassemble on Ubuntu after pulling this branch:
     sha256sum nav2-follow-deployment.tar.gz
     tar -xzf nav2-follow-deployment.tar.gz
 
-Expected SHA-256: e18bae4ae380b0d2380b9aa71a6301be6d395132327b54f428a6e74c904e1719.
+Expected SHA-256: 16b1b3b5ffb405666113f77a31fe9fb7f5a49b34d37f3cd847c142d346283ee7.
 
 The extracted tree is baseline/follower_diagnostics. Logs were omitted except the saved new-map reference. See the included README for verification scope and runtime cautions.
