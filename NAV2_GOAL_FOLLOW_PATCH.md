@@ -12,7 +12,7 @@ sha256sum nav2-follow-goal-patch.tar.gz
 tar -xzf nav2-follow-goal-patch.tar.gz -C ~/nav2_follow_goal_patch
 ```
 
-Expected SHA-256: `39f3742d1f8fa18d933580361c0680fd9f37054c65a99359982c849372115fce`.
+Expected SHA-256: `5add1bc6338007866905bb7f9bae07ff465087d4965309e79b133742e8e68348`.
 
 Back up the current runtime files on the follower, then copy the four updated runtime files:
 
